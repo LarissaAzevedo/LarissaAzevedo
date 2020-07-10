@@ -4,9 +4,7 @@
 
 ### Oie! Sou Larissa 👋
 
-💻 Analista Jr - Desenvolvedora em Linx <br>
-🏡 Brasileira 🌎 São Paulo ✈️ São Paulo
-  
+💻 Analista Jr - Desenvolvedora em Linx 🏡 Brasileira 🌎 São Paulo ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
