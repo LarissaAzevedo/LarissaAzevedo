@@ -1,5 +1,5 @@
 <p align="center">
- <img width="100%" src="https://user-images.githubusercontent.com/lsa.png" />
+ <img width="100%" src="https://user-images.githubusercontent.com/29931326/87112008-340ab080-c241-11ea-810b-278b66263116.png" />
 </p>
 
 ### Oie! Sou Larissa 👋
