@@ -1,7 +1,3 @@
-<p align="center">
- <img width="100%" src="https://user-images.githubusercontent.com/29931326/87113083-d75cc500-c243-11ea-96d5-4567b121f7d7.png" />
-</p>
-
 ### Oie! Sou Larissa 👋
 
 💻 Analista Jr - Desenvolvedora em Linx 🏡 Brasileira 🌎 São Paulo ✈️ Brasil
