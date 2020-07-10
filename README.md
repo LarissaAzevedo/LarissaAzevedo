@@ -1,16 +1,26 @@
-### Hi there 👋
+<p align="center">
+ <img width="100%" src="https://user-images.githubusercontent.com/lsa.png" />
+</p>
 
-<!--
-**LarissaAzevedo/LarissaAzevedo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Oie! Sou Larissa 👋
 
-Here are some ideas to get you started:
+💻 Analista Jr - Desenvolvedora em Linx <br>
+🏡 Brasileira 🌎 São Paulo ✈️ São Paulo
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Encontre-me por aqui 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LarissaAzevedo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/larissa-santos-de-azevedo-65bb6a171)](https://www.linkedin.com/in/larissa-santos-de-azevedo-65bb6a171)
+
+[![Gmail Badge](https://img.shields.io/badge/-lari.santosazevedo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lari.santosazevedo@gmail.com)](mailto:lari.santosazevedo@gmail.com)
+
+📷 https://www.instagram.com/code.lari/?hl=pt-br <br>
+
+💻 Atualmente trabalho com React Js<br>
+📚 Estudando Testing Library<br>
+🎮 Graduada em Jogos Digitais<br>
+🐱 Doida dos gatos...<br>
+🦖 e dinossauros :)
+
+Obrigada pela visita!
+</samp>
