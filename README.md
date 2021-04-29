@@ -4,7 +4,7 @@
 
 ### Oie! Sou Larissa 👋
 
-💻 Analista Jr - Desenvolvedora em Linx 🏡 Brasileira 🌎 São Paulo ✈️ Brasil
+💻 Desenvolvedora Front-end 🏡 Brasileira 🌎 São Paulo ✈️ Brasil
 
 ### Encontre-me por aqui 🌎
 
@@ -14,7 +14,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-blue?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/usakimodoki/)](https://www.instagram.com/usakimodoki/)
 
 
-💻 Atualmente trabalho com React Js<br>
+💻 Atualmente trabalho com ReactJS<br>
 📚 Estudando Testing Library<br>
 🎮 Graduada em Jogos Digitais<br>
 🎮 Enrolando pra voltar como Game Dev<br>
