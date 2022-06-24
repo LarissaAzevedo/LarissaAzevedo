@@ -48,6 +48,8 @@
 
 - [Criando um README -sensacional- para seu perfil no Github](https://www.linkedin.com/pulse/criando-um-readmemd-sensacional-para-seu-perfil-santos-de-azevedo/)
 
+- [Comece já a palestrar - Artigo](https://dev.to/lariazevedo/comece-ja-a-palestrar-4pfd)
+
 - [Obsessão 🥰 Motivação 😤](https://lariazevedo.substack.com/p/obsessao-motivacao-?s=w)
 
 - [Precisamos falar sobre Acessibilidade Web - Conteúdo da palestra](https://github.com/LarissaAzevedo/AcessibilidadeWeb) 
