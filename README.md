@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/larissasazevedo/) &nbsp;
 [![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/usakimodoki/) &nbsp;
-[![Twitch Badge](https://img.shields.io/badge/twitch-323330?style=for-the-badge&logo=twitch&logoColor=6441a5)](https://twitter.com/usakimodoki) &nbsp;
+[![Twitch Badge](https://img.shields.io/badge/twitch-323330?style=for-the-badge&logo=twitch&logoColor=6441a5)](https://www.twitch.tv/usakimodoki) &nbsp;
 [![Twitch Badge](https://img.shields.io/badge/substack-323330?style=for-the-badge&logo=substack&logoColor=orange)](https://lariazevedo.substack.com/)
 
 <br>
