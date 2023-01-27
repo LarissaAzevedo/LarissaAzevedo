@@ -10,6 +10,7 @@
 ## Sobre mim 🎯
 
 💻 Trabalho como Front End Sênior<br>
+🧊 Integrante do comitê do TDC 2023 Trilha Web/Front-end<br>
 📚 Aprendendo mais sobre TDD, Patterns e SOLID atualmente<br>
 💬 Pergunte-me sobre qualquer coisa relacionada ao desenvolvimento de jogos, desenvolvimento web e carreira em tecnologia<br>
 🎤 Criadora de Conteúdo digital (artigos, palestras, publicações, live stream)<br>
