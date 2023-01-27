@@ -56,6 +56,8 @@
 
 - [Palestra - NextJs X React: O que tem de diferente?](https://www.youtube.com/watch?v=gyg689Mezgw)
 
+- [Palestra Campus Party Goiás - NextJs X React: O que tem de diferente?](https://youtu.be/DKcoUtL0UIc)
+
 - [Conteúdo da palestra - Precisamos falar sobre Acessibilidade Web](https://github.com/LarissaAzevedo/AcessibilidadeWeb) 
 
 <br>
