@@ -59,6 +59,8 @@
 
 - [Palestra Campus Party Goiás - NextJs X React: O que tem de diferente?](https://youtu.be/DKcoUtL0UIc)
 
+- [Palestra - Precisamos falar sobre Acessibilidade Web](https://youtu.be/HSo8lIzbdGA)
+
 - [Conteúdo da palestra - Precisamos falar sobre Acessibilidade Web](https://github.com/LarissaAzevedo/AcessibilidadeWeb) 
 
 <br>
