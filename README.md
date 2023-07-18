@@ -8,7 +8,7 @@
 
 💻 Trabalho como Front End Sênior<br>
 🧊 Integrante do comitê do TDC 2023 Trilha Web/Front-end<br>
-🎤 Criadora de Conteúdo digital (artigos, palestras, publicações, newsletter) em @usakimodoki<br>
+🎤 Criadora de Conteúdo digital (artigos, palestras, publicações, newsletter) em @lari.sazevedo<br>
 💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento web, front-end e carreira em tecnologia<br>
 🎮 Graduada em Jogos Digitais e Desenvolvimento Fullstack<br>
 📚 Aprendendo mais sobre TDD, Patterns e SOLID atualmente<br>
@@ -35,6 +35,10 @@
 <br>
 ## Últimos conteúdos 📕
 
+- [Artigo - O que você aprende em um Hackathon?](https://lariazevedo.substack.com/p/o-que-voce-aprende-em-um-hackathon)
+
+- [Conteúdo da palestra - Segurança no Front-end](https://github.com/LarissaAzevedo/SegurancaNoFrontend/blob/main/RS23%20Seguran%C3%A7a%20no%20Front-end.pdf) 
+
 - [Artigo - Criando um README -sensacional- para seu perfil no Github](https://www.linkedin.com/pulse/criando-um-readmemd-sensacional-para-seu-perfil-santos-de-azevedo/)
 
 - [Artigo - Comece já a palestrar](https://dev.to/lariazevedo/comece-ja-a-palestrar-4pfd)
@@ -49,7 +53,8 @@
 
 - [Palestra - Precisamos falar sobre Acessibilidade Web](https://youtu.be/HSo8lIzbdGA)
 
-- [Conteúdo da palestra - Precisamos falar sobre Acessibilidade Web](https://github.com/LarissaAzevedo/AcessibilidadeWeb) 
+- [Conteúdo da palestra - Precisamos falar sobre Acessibilidade Web](https://github.com/LarissaAzevedo/AcessibilidadeWeb)
+
 
 <br>
 
