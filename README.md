@@ -66,3 +66,4 @@
   <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaAzevedo&layout=compact&theme=onedark"/>  
 </a>
 
+<a href="https://app.daily.dev/usakimodokii"><img src="https://api.daily.dev/devcards/a6f433c8c780480ea3c3296f29cc1a73.png?r=eak" width="400" alt="Larissa's Dev Card"/></a>
