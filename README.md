@@ -22,27 +22,15 @@
 🐱 Eu amo gatos :) tenho só 6 por enquanto <br>
 <br>
 
-
-## Stack 👩🏻‍💻
-![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
-![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) &nbsp;
-![NextJS](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js) &nbsp;
-<br>
-## Conhecimentos 👩🏻‍💻
-![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=for-the-badge&logo=react) &nbsp;
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js) &nbsp;
-<br>
-
-## Ferramentas 👩🏻‍💻
-![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) &nbsp;
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
-![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
-<br>
+ ## 👩🏻‍💻 Conhecimento / Experiência :star: ## 
+ 
+| Badge | Descrição |
+| --- | --- |
+| ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NextJS](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js) ![VUE](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=for-the-badge&logo=react) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js) ![Styled Components](https://img.shields.io/badge/Styled_Components-black?style=for-the-badge&logo=Styled-Components) | Tecnologias / Frameworks / Linguagens |
+| [![logo github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#) [![logo azure pipeline](https://img.shields.io/badge/Azure_Pipelines-2088FF?style=for-the-badge&logo=azure-pipelines&logoColor=white)](#) [![logo Active Directory B2C](https://img.shields.io/badge/Active_Directory_B2C-2088FF?style=for-the-badge&logo=active_directory_b2c&logoColor=white)](#) [![logo docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#) | CI/CD / Deploy / DevOps |
+| ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) | Ferramentas |
+| [![logo prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)](#) [![logo grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](#) | Observabilidade |
+| ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) | OS |
 
 ## Últimos conteúdos 📕
 
