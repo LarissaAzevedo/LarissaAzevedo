@@ -1,19 +1,28 @@
 # Larissa Azevedo
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/larissasazevedo/) &nbsp;
-[![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/lari.sazevedo/) &nbsp;
-[![Twitch Badge](https://img.shields.io/badge/substack-323330?style=for-the-badge&logo=substack&logoColor=orange)](https://lariazevedo.substack.com/)
+<img src="https://github.com/user-attachments/assets/bf52a09a-b688-4db9-86ad-05a2cf73cc2f" alt="MVP Badge" style="width: 300px;"/>
+<br>
+<br>
+
+[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/larissasazevedo/) &nbsp;
+[![Instagram Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/lari.sazevedo/) &nbsp;
+[![Substack Badge](https://img.shields.io/badge/substack-323330?style=for-the-badge&logo=substack&logoColor=orange)](https://lariazevedo.substack.com/) &nbsp;
+[![Youtube Badge](https://img.shields.io/badge/youtube-323330?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@lari.sazevedo) &nbsp;
 <br>
 ## Sobre mim 🎯
 
-💻 Trabalho como Front End Sênior<br>
-🧊 Integrante do comitê do TDC 2023 Trilha Web/Front-end<br>
-🎤 Criadora de Conteúdo digital (artigos, palestras, publicações, newsletter) em @lari.sazevedo<br>
-💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento web, front-end e carreira em tecnologia<br>
-🎮 Graduada em Jogos Digitais e Desenvolvimento Fullstack<br>
-📚 Aprendendo mais sobre TDD, Patterns e SOLID atualmente<br>
-🐱 Eu amo gatos :)<br>
+💻 Trabalho como Front End Sênior e Tech Manager <br>
+🏆 Nomeada Microsoft MVP 2024 (Most Valuable Professional) nas categorias Web Development & Developer Tools <br>
+⚜️ Mentora de carreira na programação <br>
+📹 Ao vivo toda quarta-feira às 20h no [YouTube](https://www.youtube.com/@lari.sazevedo) para ensianr estratégias para impulsionar carreiras de desenvovledores <br>
+🎤 Palestrante e escritora da [Newsletter da Lari](https://lariazevedo.substack.com/) <br>
+🧊 Integrante do comitê do TDC 2023 Trilha Web/Front-end <br>
+💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento web, front-end e carreira em tecnologia <br>
+🎮 Graduada em Jogos Digitais e Desenvolvimento Fullstack <br>
+🐱 Eu amo gatos :) tenho só 6 por enquanto <br>
 <br>
+
+
 ## Stack 👩🏻‍💻
 ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) &nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) &nbsp;
@@ -27,12 +36,14 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) &nbsp;
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js) &nbsp;
 <br>
+
 ## Ferramentas 👩🏻‍💻
 ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) &nbsp;
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) &nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
 <br>
+
 ## Últimos conteúdos 📕
 
 - [Artigo - O que você aprende em um Hackathon?](https://lariazevedo.substack.com/p/o-que-voce-aprende-em-um-hackathon)
