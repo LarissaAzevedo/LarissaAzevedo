@@ -1,68 +1,234 @@
 # Larissa Azevedo
 
-<img src="https://github.com/user-attachments/assets/bf52a09a-b688-4db9-86ad-05a2cf73cc2f" alt="MVP Badge" style="width: 300px;"/>
-<br>
+![Capa Github](https://github.com/user-attachments/assets/9ef9a407-b7f8-421e-8b38-a276ddadd219)
+
+<div align="center">
+<span><strong>Front-end Sênior | Microsoft MVP | Tech Manager | Mentora de carreira e palestrante</strong></span>
+
+<br><br>
+<a href="https://www.linkedin.com/in/larissasazevedo/">
+  <img src="https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=Linkedin&logoColor=blue" alt="LinkedIn Badge" />
+</a>
+<a href="https://www.instagram.com/lari.sazevedo/">
+  <img src="https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple" alt="Instagram Badge" />
+</a>
+<a href="https://lariazevedo.substack.com/">
+  <img src="https://img.shields.io/badge/substack-323330?style=for-the-badge&logo=substack&logoColor=orange" alt="Substack Badge" />
+</a>
+<a href="https://www.youtube.com/@lari.sazevedo">
+  <img src="https://img.shields.io/badge/youtube-323330?style=for-the-badge&logo=youtube&logoColor=red" alt="YouTube Badge" />
+</a>
+
+</div>
+
+---
+
+✨ Sou Frontend Software Engineer (há quase 10 anos na área de tecnologia), nomeada Microsoft MVP (Web Development & Developer Tools), realizo semanalmente a Main Class no YouTube às quartas, escrevo a [Newsletter da Lari](https://lariazevedo.substack.com/) com reflexões sobre carreira tech, e atuo como mentora de devs que querem crescer com confiança. Também palestro sobre front-end e carreira na tecnologia.
+
 <br>
 
-[![Linkedin Badge](https://img.shields.io/badge/Linkedin-323330?style=for-the-badge&logo=Linkedin&logoColor=blue)](https://www.linkedin.com/in/larissasazevedo/) &nbsp;
-[![Instagram Badge](https://img.shields.io/badge/Instagram-323330?style=for-the-badge&logo=instagram&logoColor=purple)](https://www.instagram.com/lari.sazevedo/) &nbsp;
-[![Substack Badge](https://img.shields.io/badge/substack-323330?style=for-the-badge&logo=substack&logoColor=orange)](https://lariazevedo.substack.com/) &nbsp;
-[![Youtube Badge](https://img.shields.io/badge/youtube-323330?style=for-the-badge&logo=youtube&logoColor=red)](https://www.youtube.com/@lari.sazevedo) &nbsp;
-<br>
-## Sobre mim 🎯
+## 👩🏻‍💻 Sobre mim
 
-💻 Trabalho como Front End Sênior e Tech Manager <br>
-🏆 Nomeada Microsoft MVP 2024 (Most Valuable Professional) nas categorias Web Development & Developer Tools <br>
-⚜️ Mentora de carreira na programação <br>
-📹 Ao vivo toda quarta-feira às 20h no [YouTube](https://www.youtube.com/@lari.sazevedo) para ensianr estratégias para impulsionar carreiras de desenvovledores <br>
-🎤 Palestrante e escritora da [Newsletter da Lari](https://lariazevedo.substack.com/) <br>
-🧊 Integrante do comitê do TDC 2023 Trilha Web/Front-end <br>
-💬 Pergunte-me sobre qualquer coisa relacionada a desenvolvimento web, front-end e carreira em tecnologia <br>
-🎮 Graduada em Jogos Digitais e Desenvolvimento Fullstack <br>
-🐱 Eu amo gatos :) tenho só 6 por enquanto <br>
+Tormação em Jogos Digitais e Desenvolvimento Fullstack. Mentoro desenvolvedores(as) para avançarem em suas carreiras com mais confiança e visibilidade.  
+Amo construir produtos com impacto, participar da comunidade tech e, claro, tenho 6 gatinhos! 🐱  
+Já fui duas vezes participante no Code In The Dark (e perdi nas duas 😅) e integrei o comitê da trilha de Front no TDC 2023.
+
+
+## 📚 Artigos e Newsletters
+
+<table>
+   <thead>
+    <tr>
+      <th>Título</th>
+      <th>Link</th>
+    </tr>
+   </thead>
+  <tr>
+    <td>O que você aprende em um Hackathon?</td>
+    <td><a href="https://lariazevedo.substack.com/p/o-que-voce-aprende-em-um-hackathon" target="_blank">Ler artigo</a></td>
+  </tr>
+  <tr>
+    <td>Criando um README sensacional para seu perfil no GitHub</td>
+    <td><a href="https://www.linkedin.com/pulse/como-transformar-seu-readme-do-github-em-uma-vitrine-vers%C3%A3o-azevedo-xclnf" target="_blank">Ler artigo</a></td>
+  </tr>
+  <tr>
+    <td>Comece já a palestrar</td>
+    <td><a href="https://dev.to/lariazevedo/comece-ja-a-palestrar-4pfd" target="_blank">Ler artigo</a></td>
+  </tr>
+  <tr>
+    <td>Newsletter - Obsessão 🥰 Motivação 😤</td>
+    <td><a href="https://lariazevedo.substack.com/p/obsessao-motivacao-?s=w" target="_blank">Ler newsletter</a></td>
+  </tr>
+</table>
+
+---
 <br>
+
+<h2>🎤 Palestras </h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Título</th>
+      <th>Palavras-chave</th>
+      <th>Slides / Gravação 🚧</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Código à Prova de Falhas: Táticas para Detectar e Corrigir Erros Antes que Eles Aconteçam</td>
+      <td>Clean Code, Testes, Boas práticas, Engenharia de software</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>Front end é o novo FullStack?</td>
+      <td>Carreira, FullStack, Dev Front-end, Multidisciplinaridade</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>Clean Code no Front-End: Escrevendo código JavaScript de alta qualidade</td>
+      <td>Clean Code, JavaScript, Qualidade de código, Front-end</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>As valiosas lições de um Programador Apaixonado para ascender sua carreira</td>
+      <td>Motivação, Soft Skills, Carreira, Autoconhecimento</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>Segurança no Front-end: Dos ataques à prevenção</td>
+      <td>Segurança, Front-end, OWASP, Boas práticas</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>Acessibilidade Web e o papel do dev</td>
+      <td>Acessibilidade, WCAG, Inclusão, Boas práticas</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>O caminho até sua vaga em tecnologia</td>
+      <td>Carreira, Mentoria, Estratégia de Vaga, Mercado</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>Você já sabe design patterns no front-end (e nem percebeu)</td>
+      <td>Design Patterns, Front-end, Reutilização de código</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>Mercado de Tecnologia: Oportunidades, Tendências e o Caminho para o Sucesso</td>
+      <td>Carreira, Tendências, Estratégia, Networking</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>A arte da refatoração: Melhorando seu código sem medo</td>
+      <td>Refatoração, Legado, Qualidade, JavaScript</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+    <tr>
+      <td>Desvendando Micro Frontends: Casos de Sucesso e Lições Aprendidas (it's a trap)</td>
+      <td>Microfrontends, Arquitetura, Casos reais, Escalabilidade</td>
+      <td><a href="#">Ver slides</a> | <a href="#">Ver gravação</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+<br>
+
 
  ## 👩🏻‍💻 Conhecimento / Experiência :star: ## 
  
-| Badge | Descrição |
-| --- | --- |
-| ![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TYPESCRIPT](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) ![NextJS](https://img.shields.io/badge/-NextJs-black?style=for-the-badge&logo=next.js) ![VUE](https://img.shields.io/badge/Vue-20232A?style=for-the-badge&logo=vue&logoColor=61DAFB) ![React Native](https://img.shields.io/badge/-React%20Native-%23282C34?style=for-the-badge&logo=react) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=for-the-badge&logo=Node.js) ![Styled Components](https://img.shields.io/badge/Styled_Components-black?style=for-the-badge&logo=Styled-Components) | Tecnologias / Frameworks / Linguagens |
-| [![logo github actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](#) [![logo azure pipeline](https://img.shields.io/badge/Azure_Pipelines-2088FF?style=for-the-badge&logo=azure-pipelines&logoColor=white)](#) [![logo Active Directory B2C](https://img.shields.io/badge/Active_Directory_B2C-2088FF?style=for-the-badge&logo=active_directory_b2c&logoColor=white)](#) [![logo docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](#) | CI/CD / Deploy / DevOps |
-| ![Git](https://img.shields.io/badge/-git-black?style=for-the-badge&logo=Git) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?logo=github&logoColor=white&style=for-the-badge) | Ferramentas |
-| [![logo prometheus](https://img.shields.io/badge/Prometheus-000000?style=for-the-badge&logo=prometheus&labelColor=000000)](#) [![logo grafana](https://img.shields.io/badge/Grafana-F2F4F9?style=for-the-badge&logo=grafana&logoColor=orange&labelColor=F2F4F9)](#) | Observabilidade |
-| ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) | OS |
-
-## Últimos conteúdos 📕
-
-- [Artigo - O que você aprende em um Hackathon?](https://lariazevedo.substack.com/p/o-que-voce-aprende-em-um-hackathon)
-
-- [Conteúdo da palestra - Segurança no Front-end](https://github.com/LarissaAzevedo/SegurancaNoFrontend/blob/main/RS23%20Seguran%C3%A7a%20no%20Front-end.pdf) 
-
-- [Artigo - Criando um README -sensacional- para seu perfil no Github](https://www.linkedin.com/pulse/criando-um-readmemd-sensacional-para-seu-perfil-santos-de-azevedo/)
-
-- [Artigo - Comece já a palestrar](https://dev.to/lariazevedo/comece-ja-a-palestrar-4pfd)
-
-- [Newsletter - Obsessão 🥰 Motivação 😤](https://lariazevedo.substack.com/p/obsessao-motivacao-?s=w)
-
-- [Palestra - Arquitetura de projeto escaláveis e performáticos com React](https://www.youtube.com/watch?v=sIg9KJk-jOY)
-
-- [Palestra - NextJs X React: O que tem de diferente?](https://www.youtube.com/watch?v=gyg689Mezgw)
-
-- [Palestra Campus Party Goiás - NextJs X React: O que tem de diferente?](https://youtu.be/DKcoUtL0UIc)
-
-- [Palestra - Precisamos falar sobre Acessibilidade Web](https://youtu.be/HSo8lIzbdGA)
-
-- [Conteúdo da palestra - Precisamos falar sobre Acessibilidade Web](https://github.com/LarissaAzevedo/AcessibilidadeWeb)
-
-
+<table>
+  <thead>
+    <tr>
+      <th>Área</th>
+      <th>Competências</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><strong>Desenvolvimento</strong></td>
+      <td>Front-end · Back-end · Full Stack · Jogos</td>
+    </tr>
+    <tr>
+      <td><strong>Frameworks e Linguagens</strong></td>
+      <td>TypeScript · JavaScript · React.js · Next.Js · Redux Thunk · Styled-components · React Native · SASS · API REST</td>
+    </tr>
+    <tr>
+      <td><strong>Metodologias e Processos</strong></td>
+      <td>Scrum · Kanban · Metodologias Ágeis</td>
+    </tr>
+    <tr>
+      <td><strong>Testes e Qualidade</strong></td>
+      <td>Jest · React Testing Library · Sonarqube · ESLint · Testes unitários · Testes E2E · Desenvolvimento orientado a testes (TDD) · WCAG · Acessibilidade W3C · OWASP</td>
+    </tr>
+    <tr>
+      <td><strong>Ferramentas de DevOps / CI/CD</strong></td>
+      <td>Git · GitLab · CircleCI · Azure DevOps</td>
+    </tr>
+    <tr>
+      <td><strong>UX e Design</strong></td>
+      <td>Experiência do usuário (UX) </td>
+    </tr>
+    <tr>
+      <td><strong>Cloud e Observabilidade</strong></td>
+      <td>Amazon Web Services (AWS) · New Relic · Grafana · DataDog</td>
+    </tr>
+    <tr>
+      <td><strong>Soft Skills e Liderança</strong></td>
+      <td>Comunicação · Liderança técnica · Compartilhamento de conhecimento · Realização de palestras · Escrita de documentação técnica</td>
+    </tr>
+    <tr>
+      <td><strong>Outros</strong></td>
+      <td>Active Directory · CRM</td>
+    </tr>
+  </tbody>
+</table>
+ 
+---
 <br>
 
-## Status ⭐
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='40%' src="https://github-readme-stats.vercel.app/api?username=LarissaAzevedo&show_icons=true&theme=onedark" />
-</a> &nbsp; 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" width='33.5%'  src="https://github-readme-stats.vercel.app/api/top-langs/?username=LarissaAzevedo&layout=compact&theme=onedark"/>  
-</a>
 
-<a href="https://app.daily.dev/lariazevedo"><img src="https://api.daily.dev/devcards/a6f433c8c780480ea3c3296f29cc1a73.png?r=pdw" width="400" alt="Larissa's Dev Card"/></a>
+## 💼 Trajetória
+
+<table>
+  <tr>
+    <th>Empresa</th>
+    <th>Projeto/Impacto</th>
+    <th>Tecnologias</th>
+  </tr>
+  <tr>
+    <td>IFood</td>
+    <td>Desenvolvimento de aplicação Whitelabel, para configuração de loja pelo mercado parceiro</td>
+    <td>React, TypeScript, Styled Components, Redux</td>
+  </tr>
+  <tr>
+    <td>Grupo Boticário</td>
+    <td>Desenvolvimento no time de Gestão de Projeto e Campanha para desenvolvimento de aplicação de planejamento e priorização de campanhas</td>
+    <td>React, TypeScript, Styled Components, Jest, React Query, ContextAPI</td>
+  </tr>
+  <tr>
+    <td>Tivit</td>
+    <td>Desenvolvimento de soluções web para clientes como GNDI e Hieneken, com portal de gestão para beneficiários e acesso mobile</td>
+    <td>React, React Native, JavaScript, ContextAPI, Styled Components, Material UI</td>
+  </tr>
+  <tr>
+    <td>Linx</td>
+    <td>desenvolvimento de aplicações internas como gateway de pagamento e gestão de relatórios financeiros de clientes e parceiros.</td>
+    <td>React, TypeScript, SASS, Styled Components, Jest, React Testing Library</td>
+  </tr>
+  <tr>
+    <td>DeÔnibus</td>
+    <td>Desenvolvimento e manutenção de aplicação web responsável pela venda e emissão de passagens de ônibus</td>
+    <td>React, Material UI, SASS, Redux Thunk</td>
+  </tr>
+</table>
+
+## 💡 Como posso te ajudar?
+
+- Quer crescer como dev e se destacar no mercado? Veja meus conteúdos semanais no YouTube e Substack.
+- Está buscando referências para construir seu posicionamento? Acesse meus artigos sobre README e carreira.
+- Quer começar a palestrar? Tenho um guia e falo disso em eventos e na minha newsletter.
+
+Feito com carinho por Lari Azevedo
